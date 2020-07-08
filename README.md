@@ -1,6 +1,6 @@
 # Capstone Project - Sparkify Music Service Analytics
 
-Git-hub link:click [here](https://github.com/amalpm-rog/Capstone_Project.git)
+Git-hub link:click [here](https://github.com/pranav568/UDACITY-PROJECT-6-CAPSTONE.git)
 
 ### Motivation
 
